@@ -19,6 +19,5 @@ int main(int argc, char** argv)
 
 	tree->root = tree->deleteNode(tree->root, 10);
 	
-	cout << endl;
 	return 0;
 }
